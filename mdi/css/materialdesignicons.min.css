@@ -1,7 +1,10 @@
 @font-face {
 	font-family: "Material Design Icons";
-	src: url("../fonts/materialdesignicons-webfont.eot?v=3.9.97");
-	src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=3.9.97") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=3.9.97") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=3.9.97") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=3.9.97") format("truetype");
+	src: url("https://github.com/FurC0de/iotsec-webpanel-references/raw/main/mdi/fonts/materialdesignicons-webfont.eot?v=3.9.97");
+	src: url("https://github.com/FurC0de/iotsec-webpanel-references/raw/main/mdi/fonts/materialdesignicons-webfont.eot?#iefix&v=3.9.97") format("embedded-opentype"), 
+		url("https://github.com/FurC0de/iotsec-webpanel-references/raw/main/mdi/fonts/materialdesignicons-webfont.woff2?v=3.9.97") format("woff2"), 
+		url("https://github.com/FurC0de/iotsec-webpanel-references/raw/main/mdi/fonts/materialdesignicons-webfont.woff?v=3.9.97") format("woff"), 
+		url("https://github.com/FurC0de/iotsec-webpanel-references/raw/main/mdi/fonts/materialdesignicons-webfont.ttf?v=3.9.97") format("truetype");
 	font-weight: normal;
 	font-style: normal
 }
